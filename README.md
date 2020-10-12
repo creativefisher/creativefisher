@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I do some cloud stuff at [DigitalOcean](https://www.digitalocean.com/)
+- I can be reached at [@rasharm_](https://twitter.com/rasharm_)
+
 <!--
 **creativefisher/creativefisher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
