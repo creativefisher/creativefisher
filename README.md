@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I do some cloud stuff at [DigitalOcean](https://www.digitalocean.com/)
-- I can be reached at [@rasharm_](https://twitter.com/rasharm_)
+- I can be reached at [@rasharm_](https://twitter.com/rasharm_) and [LinkedIn](https://www.linkedin.com/in/ramansharma/)
 - I do some writing here: [DEV](https://dev.to/rasharm_), [Medium](https://medium.com/@rasharm_)
 
 <!--
