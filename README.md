@@ -2,7 +2,7 @@
 
 - I do some cloud stuff at [DigitalOcean](https://www.digitalocean.com/)
 - I can be reached at [@rasharm_](https://twitter.com/rasharm_) and [LinkedIn](https://www.linkedin.com/in/ramansharma/)
-- I do some writing here: [DEV](https://dev.to/rasharm_), [Medium](https://rasharm.medium.com/)
+- I do some writing here: [Substack](https://ramansharma.substack.com/)
 
 <!--
 **creativefisher/creativefisher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
