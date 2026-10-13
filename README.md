@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I do some AI stuff at [Sourcegraph](https://about.sourcegraph.com/)
-- I can be reached at [@rasharm_](https://twitter.com/ramanvibes) and [LinkedIn](https://www.linkedin.com/in/ramansharma/)
+- I can be reached at [@ramanvibes](https://twitter.com/ramanvibes) and [LinkedIn](https://www.linkedin.com/in/ramansharma/)
 - I do some writing here: [Substack](https://ramansharma.substack.com/)
 
 <!--
